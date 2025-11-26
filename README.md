@@ -53,7 +53,7 @@ Choose the method that fits your operating system and needs:
 ### 2️⃣ Windows: Auto-Launcher (Source Code)
 *Best for developers on Windows who want to run from source easily.*
 1. Clone or download this repository.
-2. Double-click on `Run_Calculator.bat`.
+2. Double-click on `Video_Calculator.bat`.
 3. The script will automatically install dependencies and launch the tool.
 
 ### 3️⃣ Linux / macOS / Manual Execution
@@ -69,7 +69,7 @@ Choose the method that fits your operating system and needs:
     ```
 3.  **Run the script**:
     ```bash
-    python video_calculator.py
+    python Video_Calculator.py
     ```
 
 ---
@@ -86,5 +86,6 @@ Choose the method that fits your operating system and needs:
 
 ---
 *Created with ❤️ for better time management.*
+
 
 

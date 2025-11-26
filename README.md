@@ -42,22 +42,22 @@ It supports **Smart Parsing**, **Recursive Directory Scanning**, and provides **
 
 ## 🚀 How to Run (3 Ways)
 
-Choose the method that suits you best:
+Choose the method that fits your operating system and needs:
 
-### 1️⃣ Method 1: No Installation (Recommended for Users)
-If you don't have Python installed or just want a quick start:
+### 1️⃣ Windows: No Installation (Easiest)
+*Best for users who just want to use the tool without installing Python.*
 1. Go to the [**Releases Page**](https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator/releases).
 2. Download the latest `VideoCalculator.exe`.
 3. Double-click to run anywhere!
 
-### 2️⃣ Method 2: Automatic Launcher
-If you have Python installed but want an automated setup:
-1. Download the source code (Clone or Download ZIP).
-2. Double-click on `run_calculator.bat`.
-3. The script will automatically install necessary libraries and launch the tool.
+### 2️⃣ Windows: Auto-Launcher (Source Code)
+*Best for developers on Windows who want to run from source easily.*
+1. Clone or download this repository.
+2. Double-click on `Run_Calculator.bat`.
+3. The script will automatically install dependencies and launch the tool.
 
-### 3️⃣ Method 3: For Developers
-If you prefer running via Terminal or IDE:
+### 3️⃣ Linux / macOS / Manual Execution
+*Best for non-Windows users or those who prefer using the terminal.*
 
 1.  **Clone the repository**:
     ```bash
@@ -86,4 +86,5 @@ If you prefer running via Terminal or IDE:
 
 ---
 *Created with ❤️ for better time management.*
+
 

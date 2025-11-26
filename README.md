@@ -46,7 +46,7 @@ Choose the method that suits you best:
 
 If you don't have Python installed or just want a quick start:
 
-1\.  Go to the \[\*\*Releases\*\*](https://github.com/seyedalipourbakhsh/Video-Duration-Calculator/releases) page.
+1\.  Go to the \[\*\*Releases\*\*](https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator/releases) page.
 
 2\.  Download the latest `VideoCalculator.exe`.
 
@@ -76,7 +76,7 @@ If you prefer running via IDE (VS Code, PyCharm) or terminal:
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/seyedalipourbakhsh/Video-Duration-Calculator.git](https://github.com/seyedalipourbakhsh/Video-Duration-Calculator.git)
+&nbsp;   git clone \[https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator.git](https://github.com/seyedalipourbakhsh/Video-Duration-Calculator.git)
 
 &nbsp;   ```
 
@@ -123,4 +123,5 @@ If you prefer running via IDE (VS Code, PyCharm) or terminal:
 ---
 
 \*Created with ❤️ for better time management.\*
+
 

@@ -76,7 +76,7 @@ If you prefer running via IDE (VS Code, PyCharm) or terminal:
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator.git](https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator.git)
+&nbsp;   git clone \[https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator.git]
 
 &nbsp;   ```
 
@@ -123,6 +123,7 @@ If you prefer running via IDE (VS Code, PyCharm) or terminal:
 ---
 
 \*Created with ❤️ for better time management.\*
+
 
 
 

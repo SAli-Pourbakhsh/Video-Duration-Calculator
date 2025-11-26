@@ -1,10 +1,14 @@
+<div align="center">
+
 # 🎬 Video Duration Calculator & Time Manager
 
-### A professional tool for students, researchers, and video editors.
+### A Simple tool for students, researchers, and video editors.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/SAli-Pourbakhsh/Video-Duration-Calculator/graphs/commit-activity)
+
+</div>
 
 ---
 
@@ -17,11 +21,22 @@ It supports **Smart Parsing**, **Recursive Directory Scanning**, and provides **
 
 ## ✨ Key Features
 
-✅ **Smart Parsing:** Automatically detects formats like `MM:SS` or `HH:MM:SS`.
-✅ **Directory Scan:** Recursively scans folders to find all video files and calculate total duration.
-✅ **Undo Functionality:** Made a mistake? Easily undo the last entry in manual mode.
-✅ **Playback Speed Analysis:** Shows how long it takes to watch videos at **1.25x**, **1.5x**, **2.0x** speeds.
-✅ **Robust Input:** Handles copy-pasting from messy text sources seamlessly.
+### ✅ **Smart Parsing:** Automatically detects formats like `MM:SS` or `HH:MM:SS`.
+### ✅ **Directory Scan:** Recursively scans folders to find all video files and calculate total duration.
+### ✅ **Undo Functionality:** Made a mistake? Easily undo the last entry in manual mode.
+### ✅ **Playback Speed Analysis:** Shows how long it takes to watch videos at **1.25x**, **1.5x**, **2.0x** speeds.
+### ✅ **Robust Input:** Handles copy-pasting from messy text sources seamlessly.
+
+---
+
+## 📸 App Preview
+
+<div align="center">
+  <img src="assets/screenshot_1.jpg" alt="Video Duration Calculator Screenshot" width="700">
+  <img src="assets/screenshot_2.jpg" alt="Video Duration Calculator Screenshot" width="700">
+  <br>
+  <em>Smart parsing in action with playback speed analysis table.</em>
+</div>
 
 ---
 
@@ -71,3 +86,4 @@ If you prefer running via Terminal or IDE:
 
 ---
 *Created with ❤️ for better time management.*
+
